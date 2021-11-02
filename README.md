@@ -1,2 +1,2 @@
 # data_science
-Perhitungan dengan menggunakan metoda-metoda dengan menggunakan scratch
+Perhitungan machine learning sederhana dengan menggunakan scratch
